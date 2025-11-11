@@ -7,6 +7,5 @@ Creating a web application using Gradio for users to get book recommendations.
 
 A requirements.txt file containing all the project dependencies is provided as part of this repo.
 
-In order to create your vector database, you'll need to create a .env file in your root directory containing your OpenAI API key. Instructions on how to do this are part of the tutorial.
-
+In order to create your vector database, you'll need to create a .env file in your root directory containing your OpenAI API key. 
 The data for this project can be downloaded from Kaggle.
